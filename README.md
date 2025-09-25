@@ -17,6 +17,3 @@ A plugin for **SCP: Secret Laboratory** that allows you to give weapons to playe
 2. Download **GunHPPlugin.dll** from [Releases](./releases).
 3. Place the `.dll` file into your server’s plugin folder:
 4. Start the server.
-5.Check your permissions. Then run the command in RA. gunhp id gunid hp
-
-6.Example guhhp 1 31 100
