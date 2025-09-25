@@ -1,6 +1,5 @@
 # 🔫 GunHP Plugin
 
-[![EXILED]
 A plugin for **SCP: Secret Laboratory** that allows you to give weapons to players with **custom damage values**.
 
 ---
