@@ -8,7 +8,7 @@ A plugin for **SCP: Secret Laboratory** that allows you to give weapons to playe
 - Give weapons to players via the `gunhp` command.
 - Set **custom damage** for each weapon.
 - Define a **default damage value** through the config.
-- Supports both RA and GameConsole commands.
+- Supports both RA commands.
 
 ---
 
